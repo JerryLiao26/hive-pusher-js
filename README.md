@@ -18,3 +18,8 @@ let Pusher = require('hive-pusher')
 let pusher = new Pusher('your hive address', 'your token')
 pusher.send('Hello from Node.js')
 ```
+For more settings
+```
+pusher.setPath('your new hive path')
+pusher.setToken('your another token')
+```
