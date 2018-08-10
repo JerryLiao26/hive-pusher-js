@@ -10,7 +10,7 @@ A code pusher for hive written in Javascript
 ## Usage
 First, install the package
 ```
-npm install hive-pusher
+npm install hive-pusher --save-dev
 ```
 Then, in your code, initialize it, and send your message to **hive**
 ```

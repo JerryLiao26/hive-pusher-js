@@ -3,6 +3,15 @@
   "author": "Jerry Liao <jerryliao26@gmail.com> (https://jerryliao.cn)",
   "version": "0.1.4",
   "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JerryLiao26/hive-pusher-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JerryLiao26/hive-pusher-js/issues"
+  },
+  "homepage": "https://github.com/JerryLiao26/hive-pusher-js",
+  "keywords": ["hive", "pusher"],
   "dependencies": {
     "request": "^2.87.0"
   }
